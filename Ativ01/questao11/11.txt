@@ -1,0 +1,9 @@
+/*
+    Nome:   William Matheus de Souza Cunha
+    Mat:    2215310030
+
+    Atividade 01: Revisão na Linguagem C
+    Questão 11
+*/
+
+Resposta: Sim, pois todo vetor contém o endereço de memória da primeira posição do vetor. Portanto, quando passamos um vetor como argumento de uma função, simplesmente estamos passando um ponteiro que aponta para a primeira posição do vetor, e quaisquer alterações feitas no vetor por funções alteram o vetor original passado por parâmetro.

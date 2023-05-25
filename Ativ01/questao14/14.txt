@@ -1,0 +1,9 @@
+/*
+    Nome:   William Matheus de Souza Cunha
+    Mat:    2215310030
+
+    Atividade 01: Revisão na Linguagem C
+    Questão 14
+*/
+
+Resposta: x = 3, *p = 4 e y = 4.

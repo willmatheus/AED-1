@@ -1,0 +1,10 @@
+/*
+    Nome:   William Matheus de Souza Cunha
+    Mat:    2215310030
+
+    Atividade 01: Revisão na Linguagem C
+    Questão 08
+*/
+
+Resposta: Ponteiros são variáveis responsáveis por armazenar endereços de memória de outras variáveis, vetores são constituídos de espaços de memória com seus respectivos endereços e valores, pode-se traçar semelhanças entre os dois na medida que a variavel vetor é um ponteiro que aponta para o começo da sequência elementos do vetor na memória. Um ponteiro, por exemplo, pode acessar os elementos de um vetor pois estão dispostos continuamente.
+

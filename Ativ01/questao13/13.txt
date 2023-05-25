@@ -1,0 +1,9 @@
+/*
+    Nome:   William Matheus de Souza Cunha
+    Mat:    2215310030
+
+    Atividade 01: Revisão na Linguagem C
+    Questão 13
+*/
+
+Resposta: Quando se usa V[3] se está referenciando o tipo de dado que está armazenado no terceiro endereço de memória, já quando se utiliza (V + 3) se está referenciado o próprio endereço de memória localizado na terceira posição a partir do endereço inicial.

@@ -1,0 +1,9 @@
+/*
+    Nome:   William Matheus de Souza Cunha
+    Mat:    2215310030
+
+    Atividade 01: Revisão na Linguagem C
+    Questão 12
+*/
+
+Resposta: 85848, pois se cada inteiro no vetor necessita de 8 bytes de armazenamento, então vetor + 6 seria igual a: 8 + 8 + 8 + 8 + 8 + 8 = 48.

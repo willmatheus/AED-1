@@ -1,0 +1,9 @@
+/*
+    Nome:   William Matheus de Souza Cunha
+    Mat:    2215310030
+
+    Atividade 01: Revisão na Linguagem C
+    Questão 09
+*/
+
+Resposta: Os ponteiros otimizam memória na medida em que atua na forma de indireção, para evitar cópia de dados em um código, otimizando memória. Outro motivo é quando precisa que a alteração feita no parâmetro se reflita na variável de um argumento, ou seja, quando terminar a execução da função tudo o que foi alterado naquele objeto deve ser preservado no objeto original passado para ela.

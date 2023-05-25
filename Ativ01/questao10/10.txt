@@ -1,0 +1,9 @@
+/*
+    Nome:   William Matheus de Souza Cunha
+    Mat:    2215310030
+
+    Atividade 01: Revisão na Linguagem C
+    Questão 10
+*/
+
+Resposta: As strings são tratadas em C como vetores de caracteres, e como sabemos que existe uma relação de equivalência entre vetores e ponteiros, pode-se concluir que ponteiros de strings e strings também são equivalentes.
