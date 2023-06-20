@@ -1,5 +1,6 @@
 include <stdio.h>
 
+// Recursiva
 long fatorial1(long n)
 {
     if ((n == 1) || (n == 0))   {
@@ -10,6 +11,7 @@ long fatorial1(long n)
     }
 }
 
+// Iterativo
 long fatorial2(int n)
 {
     long fat;
